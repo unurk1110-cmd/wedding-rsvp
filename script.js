@@ -1,0 +1,1 @@
+const URL='https://script.google.com/macros/s/AKfycbxnkTO5ji6KrrgYwjzy4uw83OMb3p568q9Tolesiaa08pbOMeNQsNahptL63f7xL_v_TA/exec';async function kirim(){const d={nama:nama.value,kehadiran:kehadiran.value,jumlah:jumlah.value,pesan:pesan.value};await fetch(URL,{method:'POST',body:JSON.stringify(d)});location='thankyou.html';}
