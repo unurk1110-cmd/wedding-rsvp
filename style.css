@@ -1,1 +1,1 @@
-body{font-family:Arial;display:flex;justify-content:center;align-items:center;height:100vh}#playButton,#musicBtn{padding:15px;border-radius:30px}.hidden{display:none}#musicBtn{position:fixed;right:20px;bottom:20px}
+body{font-family:Arial;background:#f8f0f2}.card{max-width:420px;margin:40px auto;background:#fff;padding:20px;border-radius:12px}input,select,textarea,button{width:100%;margin:8px 0;padding:10px}
